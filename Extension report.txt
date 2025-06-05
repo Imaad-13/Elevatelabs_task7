@@ -1,0 +1,27 @@
+=== Browser Extension Report ===
+
+Date: [Insert Today’s Date]
+Browser: Brave (Chromium-based)
+Mode: Developer Mode ON
+
+-- Installed Extensions --
+1. XDM Integration Module (Safe)
+2. Touch VPN (Flagged for privacy concerns)
+3. vidIQ Vision for YouTube (Safe)
+4. Volume Booster (Flagged for potential misuse)
+5. Wappalyzer (Safe)
+
+-- Actions Taken --
+✓ Reviewed extension descriptions, permissions, and reviews
+✓ Identified high-risk or non-essential extensions
+✓ Suggested removal of Touch VPN and Volume Booster
+✓ Captured screenshot for documentation
+
+-- Recommendations --
+- Remove extensions that are not in active use.
+- Avoid VPN extensions unless necessary and well-reviewed.
+- Always inspect permissions during installation.
+
+-- Outcome --
+Better awareness of extension behavior and security.
+System performance may improve after decluttering.
